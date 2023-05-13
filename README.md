@@ -7,8 +7,8 @@
 - 💬 If wanna about my journey or if you want the source of my studying and my methods, contact me. I'am open to help;
 
 <div style="display: inline">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorantonioMOZ&show_icons=true&theme=radical">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorantonioMOZ&layout=donut&theme=radical">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorantonio3301&show_icons=true&theme=radical">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorantonio3301&layout=donut&theme=radical">
 </div>
 
 ##
