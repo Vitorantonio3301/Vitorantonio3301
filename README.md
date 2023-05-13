@@ -7,13 +7,13 @@
 - 💬 If wanna about my journey or if you want the source of my studying and my methods, contact me. I'am open to help;
 
 <div style="display: inline">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorantonio3301&show_icons=true&theme=radical">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorantonio3301&layout=donut&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorantonio3301&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorantonio3301&layout=compact&theme=radical">
 </div>
 
 ##
 
-<div style="display: inline-block">
+<div style="display: inline-block"><br>
   <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="image JS">
   <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="image HTML">
   <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="image CSS">
