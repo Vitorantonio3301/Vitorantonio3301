@@ -2,7 +2,7 @@
 
 - <img src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png" width="17px" heigth="17px"> Brazilian
 - 📚 A beginner in programming and also studying computer science;
-- 💻 Right now, working in some learning projects in HTML5, CSS/SASS & JavaScript;
+- 💻 Right now, working in some learning projects in HTML5, CSS/SASS, C++ with QT(Cute) framework;
 - 👯 i don't think i've enough knowledge to help someone build something yet, but i'am open to learn;
 - 💬 If wanna about my journey or if you want the source of my studying and my methods, contact me. I'am open to help;
 
