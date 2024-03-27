@@ -2,8 +2,8 @@
 
 - <img src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png" width="17px" heigth="17px"> Brazilian
 - 📚 A beginner in programming and also studying computer science;
-- 💻 Right now, working in some learning projects in HTML5, CSS/SASS, JavaScript, C++ with QT(Cute) framework;
-- 👯 i don't think i've enough knowledge to help someone build something yet, but i'am open to learn;
+- 💻 Right now, working in some learning projects in Python, PostgreSQL, Django, TensorFlow & PyTorch;
+- 👯 Open to learn and colaborate in projects;
 - 💬 If wanna about my journey or if you want the source of my studying and my methods, contact me. I'am open to help;
 
 <div style="display: inline">
@@ -25,22 +25,21 @@
   <img width="40" heigth="30" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"  
 alt="image PyTorch">
-  <img width="40" heigth="30" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  
-alt="image Django">
   <img width="40" heigth="30"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="image PostgreSQL">
   <img width="40" heigth="30" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  
 alt="image MongoDB">
+  <img width="40" heigth="30" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  
+alt="image Git">
 </div>
 
 ##
 
 <div style="display: inline">
-  <a href="https://www.instagram.com/viitor3301/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/joão-vitor-antonio-nascimento-83873918b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:vitorantonion2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.behance.net/joovitor258"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+  <a href="https://www.instagram.com/levitoran/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vitorantonio3301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:vitorantonion3301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/VitorantonioMOZ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
