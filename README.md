@@ -14,14 +14,25 @@
 ##
 
 <div style="display: inline-block"><br>
-  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="image JS">
-  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="image HTML">
-  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="image CSS">
-  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  alt="image SASS">
-  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  alt="image BOOTSTRAP">
-  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="image REACT">
-  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="image NODEJ.JS">
-  <img width="40" heigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="image VS-CODE">
+  <img width="40" heigth="30" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  alt="image Python">
+  <img width="40" heigth="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  alt="image Cpp">
+  <img width="40" heigth="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  alt="image JS">
+  <img width="40" heigth="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"  alt="image TensorFlow">
+  <img width="40" heigth="30" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"  
+alt="image PyTorch">
+  <img width="40" heigth="30" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  
+alt="image Django">
+  <img width="40" heigth="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="image PostgreSQL">
+  <img width="40" heigth="30" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  
+alt="image MongoDB">
 </div>
 
 ##
